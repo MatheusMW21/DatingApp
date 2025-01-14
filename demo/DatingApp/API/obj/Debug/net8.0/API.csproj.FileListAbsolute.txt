@@ -121,3 +121,11 @@
 /home/wirtz/projects/DatingAppProject/demo/DatingApp/API/obj/Debug/net8.0/API.csproj.AssemblyReference.cache
 /home/wirtz/projects/DatingAppProject/demo/DatingApp/API/obj/Debug/net8.0/API.sourcelink.json
 /home/wirtz/projects/DatingAppProject/demo/DatingApp/API/obj/Debug/net8.0/API.csproj.CopyComplete
+/home/wirtz/projects/DatingAppProject/demo/DatingApp/API/bin/Debug/net8.0/Microsoft.IdentityModel.Abstractions.dll
+/home/wirtz/projects/DatingAppProject/demo/DatingApp/API/bin/Debug/net8.0/Microsoft.IdentityModel.JsonWebTokens.dll
+/home/wirtz/projects/DatingAppProject/demo/DatingApp/API/bin/Debug/net8.0/Microsoft.IdentityModel.Logging.dll
+/home/wirtz/projects/DatingAppProject/demo/DatingApp/API/bin/Debug/net8.0/Microsoft.IdentityModel.Tokens.dll
+/home/wirtz/projects/DatingAppProject/demo/DatingApp/API/bin/Debug/net8.0/System.IdentityModel.Tokens.Jwt.dll
+/home/wirtz/projects/DatingAppProject/demo/DatingApp/API/bin/Debug/net8.0/Microsoft.AspNetCore.Authentication.JwtBearer.dll
+/home/wirtz/projects/DatingAppProject/demo/DatingApp/API/bin/Debug/net8.0/Microsoft.IdentityModel.Protocols.dll
+/home/wirtz/projects/DatingAppProject/demo/DatingApp/API/bin/Debug/net8.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
