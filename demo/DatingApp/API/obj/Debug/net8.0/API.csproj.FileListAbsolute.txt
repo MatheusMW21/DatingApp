@@ -129,3 +129,4 @@
 /home/wirtz/projects/DatingAppProject/demo/DatingApp/API/bin/Debug/net8.0/Microsoft.AspNetCore.Authentication.JwtBearer.dll
 /home/wirtz/projects/DatingAppProject/demo/DatingApp/API/bin/Debug/net8.0/Microsoft.IdentityModel.Protocols.dll
 /home/wirtz/projects/DatingAppProject/demo/DatingApp/API/bin/Debug/net8.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+/home/wirtz/projects/DatingAppProject/demo/DatingApp/API/bin/Debug/net8.0/Data/UserSeedData.json
